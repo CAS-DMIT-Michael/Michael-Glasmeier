@@ -1,0 +1,15 @@
+{
+  "id" : "https://CAS-DMIT-Michael.github.io/Michael-Glasmeier/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in CAS-DMIT-Michael/Michael-Glasmeier project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://CAS-DMIT-Michael.github.io/Michael-Glasmeier/manifests/https___iiif.arthistoricum.net_proxy_ggraphik_oai_de_slub-dresden_db_id-355966999-19271000-LOG_0130-PHYS_0099_manifest.json.json",
+    "label" : {
+      "none" : [ "Pablo Picasso, Guasch, 1905 : Aus der Picasso-Ausstellung der Galerie Flechtheim" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
